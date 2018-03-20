@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * 入口类
  *
- * @author Jas
  * @date 2018/02/18
  */
 @SpringBootApplication(scanBasePackages = "com.jas")

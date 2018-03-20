@@ -13,7 +13,6 @@ import javax.sql.DataSource;
 /**
  * @EnableTransactionManagement 注解用于开启事务
  * 
- * @author Jas
  * @create 2018-02-19 14:54
  **/
 @SpringBootConfiguration

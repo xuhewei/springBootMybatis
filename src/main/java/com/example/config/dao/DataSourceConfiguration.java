@@ -11,7 +11,6 @@ import javax.sql.DataSource;
 import java.beans.PropertyVetoException;
 
 /**
- * @author Jas
  * @create 2018-02-19 9:32
  **/
 @MapperScan("com.jas.mapper")

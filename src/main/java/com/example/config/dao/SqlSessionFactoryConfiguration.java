@@ -20,7 +20,7 @@ import java.io.IOException;
 @SpringBootConfiguration
 public class SqlSessionFactoryConfiguration {
 
-    @Value("${mybatis.config.path}")
+    @Value("${mybatis.config-location}")
     private String myBatisConfigPath;
     @Value("${mapper.xml.config.path}")
     private String mapperXMLConfigPath;
