@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  * @date 2018/02/18
  */
-@SpringBootApplication(scanBasePackages = "com.jas")
+@SpringBootApplication(scanBasePackages = "com.example")
 public class DemoApplication {
 
 	public static void main(String[] args) {

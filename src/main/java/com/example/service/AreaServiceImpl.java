@@ -11,7 +11,6 @@ import com.example.domain.Area;
 import com.example.mapper.AreaMapper;
 
 /**
- * @author Jas
  * @create 2018-02-19 15:02
  **/
 @Service

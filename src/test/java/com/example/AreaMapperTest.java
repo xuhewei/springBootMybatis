@@ -35,7 +35,7 @@ public class AreaMapperTest {
     public void insertArea() throws Exception {
         Area area = new Area();
         
-        area.setAreaName("南苑");
+        area.setAreaName("北苑");
         area.setPriority(2);
         
         areaMapper.insertArea(area);

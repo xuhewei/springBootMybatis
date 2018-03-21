@@ -13,7 +13,7 @@ import java.beans.PropertyVetoException;
 /**
  * @create 2018-02-19 9:32
  **/
-@MapperScan("com.jas.mapper")
+@MapperScan("com.example.mapper")
 @SpringBootConfiguration
 public class DataSourceConfiguration {
 

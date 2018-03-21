@@ -6,7 +6,6 @@ import java.util.List;
 import com.example.domain.Area;
 
 /**
- * @author Jas
  * @create 2018-02-19 10:13
  **/
 public interface AreaMapper {
